@@ -8,19 +8,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ceSL7AL4dERRDI9tYmYx-1" value="SISWA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="59" y="95" width="120" height="60" as="geometry" />
+          <mxGeometry x="59" y="61" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ceSL7AL4dERRDI9tYmYx-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ceSL7AL4dERRDI9tYmYx-2" target="ceSL7AL4dERRDI9tYmYx-4">
+        <mxCell id="ceSL7AL4dERRDI9tYmYx-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ceSL7AL4dERRDI9tYmYx-2" target="ceSL7AL4dERRDI9tYmYx-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ceSL7AL4dERRDI9tYmYx-2" value="UKS" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="59" y="220" width="120" height="50" as="geometry" />
+          <mxGeometry x="59" y="163" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ceSL7AL4dERRDI9tYmYx-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ceSL7AL4dERRDI9tYmYx-27" target="ceSL7AL4dERRDI9tYmYx-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ceSL7AL4dERRDI9tYmYx-4" value="PERLU PEMERIKSAAN/&lt;div&gt;TINDAKAN SPESIALIS&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="59" y="345" width="120" height="75" as="geometry" />
+          <mxGeometry x="59" y="353" width="120" height="75" as="geometry" />
         </mxCell>
         <mxCell id="ceSL7AL4dERRDI9tYmYx-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ceSL7AL4dERRDI9tYmYx-6" target="ceSL7AL4dERRDI9tYmYx-8">
           <mxGeometry relative="1" as="geometry" />
@@ -66,6 +66,12 @@
               <mxPoint x="330" y="300" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ceSL7AL4dERRDI9tYmYx-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ceSL7AL4dERRDI9tYmYx-29" target="ceSL7AL4dERRDI9tYmYx-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ceSL7AL4dERRDI9tYmYx-29" value="PENCATATAN" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="59" y="257" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
