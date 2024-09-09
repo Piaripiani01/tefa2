@@ -1,9 +1,72 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="24.7.12">
   <diagram name="Page-1" id="EUGrqH4iJHIEKETvZSe5">
-    <mxGraphModel>
+    <mxGraphModel dx="1058" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sieCO6mT7lECLRqVT0fa-1" value="Siswa" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="260" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sieCO6mT7lECLRqVT0fa-2" value="" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="190" y="50" width="270" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="sieCO6mT7lECLRqVT0fa-3" value="Pencatatan daftaran pemantauan kesehatan" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="255" y="100" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sieCO6mT7lECLRqVT0fa-4" value="petugas" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="504" y="270" width="46" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sieCO6mT7lECLRqVT0fa-5" value="pemeriksaan" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="255" y="195" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sieCO6mT7lECLRqVT0fa-7" value="kategori obat" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="255" y="273" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sieCO6mT7lECLRqVT0fa-9" value="tindakan" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="255" y="350" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sieCO6mT7lECLRqVT0fa-11" value="USAHA KESEHATAN SEKOLAH&amp;nbsp;" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="60" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="sieCO6mT7lECLRqVT0fa-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.964;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="sieCO6mT7lECLRqVT0fa-4" target="sieCO6mT7lECLRqVT0fa-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="330" as="sourcePoint" />
+            <mxPoint x="440" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sieCO6mT7lECLRqVT0fa-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.964;entryY=0.613;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="sieCO6mT7lECLRqVT0fa-4" target="sieCO6mT7lECLRqVT0fa-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="330" as="sourcePoint" />
+            <mxPoint x="440" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sieCO6mT7lECLRqVT0fa-15" value="laporan" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="255" y="430" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sieCO6mT7lECLRqVT0fa-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.993;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="sieCO6mT7lECLRqVT0fa-4" target="sieCO6mT7lECLRqVT0fa-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="290" as="sourcePoint" />
+            <mxPoint x="440" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sieCO6mT7lECLRqVT0fa-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="sieCO6mT7lECLRqVT0fa-4" target="sieCO6mT7lECLRqVT0fa-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="330" as="sourcePoint" />
+            <mxPoint x="440" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sieCO6mT7lECLRqVT0fa-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="sieCO6mT7lECLRqVT0fa-4" target="sieCO6mT7lECLRqVT0fa-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="330" as="sourcePoint" />
+            <mxPoint x="440" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sieCO6mT7lECLRqVT0fa-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="sieCO6mT7lECLRqVT0fa-1" target="sieCO6mT7lECLRqVT0fa-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="330" as="sourcePoint" />
+            <mxPoint x="440" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
